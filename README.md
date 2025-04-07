@@ -9,8 +9,8 @@ I'm passionate about building modern, elegant websites and intuitive user experi
 - **Personal Portfolio Website (One Page Design)**  
   🔗 [Naajih Siraj Portfolio](#)
 
-- **Responsive HTML/CSS Web Pages**  
-  🔗 *Coming Soon*
+- **Responsive HTML/CSS/javascript Web Pages**  
+  🔗 https://naajih09.github.io/daily-dua-generator/
 
 ### 🧪 Team Projects & Roles
 - **Editing Guru (Post-Production)**  
