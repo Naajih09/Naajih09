@@ -1,41 +1,53 @@
-# Hi, I'm Naajih Siraj! 👋  
-[Web Developer](#) | [Graphic & Brand Designer](#) | [Virtual Assistant](#)
+# 👋 Hi, I’m **Naajih Siraj**
 
-I'm passionate about building modern, elegant websites and intuitive user experiences. I'm currently learning full-stack development and working on design-focused projects that blend creativity with code.
+**Junior Web Developer | Graphic & Brand Designer | Virtual Assistant**
 
-## 👨‍💻 Web Development Projects
+I’m passionate about building **modern, elegant websites** and crafting **intuitive user experiences**. Currently, I’m expanding my skills in **full-stack development** while working on design-focused projects that blend **creativity with code**.
 
-### 🌐 Front-End Projects
-- **Personal Portfolio Website (One Page Design)**  
-  🔗 [Naajih Siraj Portfolio](#)
+## 👨‍💻 Featured Projects
 
-- **Responsive HTML/CSS/javascript Web Pages**  
-  🔗 https://naajih09.github.io/daily-dua-generator/
+### 📚 [Ibn Hajar Library](https://ibn-hajar-library.vercel.app/)
 
-### 🧪 Team Projects & Roles
-- **Editing Guru (Post-Production)**  
-  🎞️ Video editor for project presentations  
-  🔗 [Coming Soon]
+A modern digital library for Islamic scholarship with book search and categorization. Built using **React + Vite**.
 
-- **Data Analyst Role – Team Collaboration**  
-  📊 Contributed to analysis and reporting during group sprints
+### 🥘 [Recipe Sharing App](#) *(in progress)*
+
+A React + Zustand application where users can add, view, edit, and delete recipes.
+
+### 💡 [Dynamic Quote Generator](https://naajih09.github.io/daily-dua-generator/)
+
+Generates daily duas/quotes with category filtering and **localStorage persistence**.
+
+### 🌐 [Portfolio Website](#) *(coming soon)*
+
+A one-page portfolio designed to showcase **Web Development + Graphic Design** projects.
+
+---
+
+## 🧪 Team Roles & Collaboration
+
+* 🎞️ **Editing Guru** → Video editor for team presentations
+* 📊 **Data Analyst** → Contributed to data cleaning, analysis & reporting during group sprints
 
 ## 🌱 Currently Learning
 
-- 🧠 Web Development (HTML, CSS, JS)
-- 🎨 UI/UX and Brand Identity Design
-- 🧰 Productivity and remote collaboration tools
+* 🧠 Web Development (HTML, CSS, JavaScript, React)
+* 🎨 UI/UX & Brand Identity Design
+* 🧰 Productivity & Remote Collaboration Tools
 
 ## 🧾 Certifications
 
-- ✅ ALX Virtual Assistant Certificate  
-- ✅ ALX AI Career Essentials Certificate  
+* ✅ **ALX Virtual Assistant Certificate**
+* ✅ **ALX AI Career Essentials Certificate**
+* ✅ **ALX Professional Foundation Certificate**
+* ✅ **ALX Software Development (Frontend Track)**
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/naajih-siraj-9613132a6)
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/naajihsiraj)
-
+* 📍 Ajah, Lagos, Nigeria
+* 📧 [naajihsiraj11@gmail.com](mailto:naajihsiraj11@gmail.com)
+* 📱 09074260871
+* 🌐 [GitHub](https://github.com/Naajih09)
 
 <!--
 **naajihsiraj/naajihsiraj** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
