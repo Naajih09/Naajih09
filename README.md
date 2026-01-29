@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Naajih Siraj**
 
-**Junior Web Developer | Graphic & Brand Designer | Virtual Assistant**
+**Web Developer | Graphic & Brand Designer | Virtual Assistant**
 
 I’m passionate about building **modern, elegant websites** and crafting **intuitive user experiences**. Currently, I’m expanding my skills in **full-stack development** while working on design-focused projects that blend **creativity with code**.
 
