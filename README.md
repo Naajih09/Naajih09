@@ -1,10 +1,12 @@
-# 👋 Hi, I’m **Naajih Siraj**
+#  Hi, I’m **Naajih Siraj**
 
 **Web Developer | Graphic & Brand Designer | Virtual Assistant**
 
 I’m passionate about building **modern, elegant websites** and crafting **intuitive user experiences**. Currently, I’m expanding my skills in **full-stack development** while working on design-focused projects that blend **creativity with code**.
 
 ## 👨‍💻 Featured Projects
+
+##     NaajihBiz - platform connecting entrepreneur and investors
 
 ### 📚 [Ibn Hajar Library](https://ibn-hajar-library.vercel.app/)
 
@@ -18,11 +20,6 @@ A React + Zustand application where users can add, view, edit, and delete recipe
 
 Generates daily duas/quotes with category filtering and **localStorage persistence**.
 
-### 🌐 [Portfolio Website](#) *(coming soon)*
-
-A one-page portfolio designed to showcase **Web Development + Graphic Design** projects.
-
----
 
 ## 🧪 Team Roles & Collaboration
 
@@ -31,7 +28,9 @@ A one-page portfolio designed to showcase **Web Development + Graphic Design** p
 
 ## 🌱 Currently Learning
 
-* 🧠 Web Development (HTML, CSS, JavaScript, React)
+*    Advanced React Pattern
+*    System Design Basics
+*    Performance Optimization
 * 🎨 UI/UX & Brand Identity Design
 * 🧰 Productivity & Remote Collaboration Tools
 
@@ -42,7 +41,7 @@ A one-page portfolio designed to showcase **Web Development + Graphic Design** p
 * ✅ **ALX Professional Foundation Certificate**
 * ✅ **ALX Software Development (Frontend Track)**
 
-## 🤝 Let’s Connect
+## Contact Me
 
 * 📍 Ajah, Lagos, Nigeria
 * 📧 [naajihsiraj11@gmail.com](mailto:naajihsiraj11@gmail.com)
