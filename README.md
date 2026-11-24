@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Building+production-ready+web+apps;React+%C2%B7+TypeScript+%C2%B7+NestJS;Open+to+global+collaboration" alt="Typing animation" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=Naajih09&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
@@ -103,11 +105,16 @@ B.Sc. Computer Science · 2025 – 2029
 
 ## 🌱 Currently Building & Learning
 
+**Building**
 - Half-Life: a GitHub App that measures code durability instead of commit volume
-- Advanced React Patterns
-- System Design Basics
-- Performance Optimization
-- UI/UX & Brand Identity Design
+- NEXUS TRAFFIC: RL and computer vision for traffic management
+
+**Learning**
+- **Rust for Soroban and Solana programs:** writing smart contracts for StellarRemit and BillSplit SOL
+- **Testing with Vitest and Playwright:** unit, integration, and end-to-end tests for monorepo apps
+- **Payment system design:** idempotency, webhook retries, and reconciliation, drawn from RemitSplit
+- **LLM evaluation:** measuring prompt and model quality for MaintainerMate and other AI features
+- **Accessibility (WCAG):** making interfaces usable for everyone, which pairs well with brand and UI design
 
 ---
 
@@ -117,3 +124,9 @@ B.Sc. Computer Science · 2025 – 2029
 - 📧 naajihbnsiraj@gmail.com
 - 🌐 [GitHub](https://github.com/Naajih09)
 - 💼 [LinkedIn](https://www.linkedin.com/in/naajih-siraj)
+
+---
+
+## ⚡ Fun Fact
+
+I design the brand and then build the product, so I can explain to a designer why a layout breaks and to an engineer why a color looks off.
